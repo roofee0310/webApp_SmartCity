@@ -1,0 +1,121 @@
+{
+  "purposeList": [
+    {
+      "id": "1001",
+      "name": "Hospital Authority"
+    },
+    {
+      "id": "1002",
+      "name": "Safety"
+    },
+    {
+      "id": "1003",
+      "name": "Recreation"
+    },
+    {
+      "id": "1004",
+      "name": "Transport & Mobility"
+    }
+  ],
+  "stageList": [
+    {
+      "id": "1",
+      "stage": "Scooping"
+    },
+    {
+      "id": "2",
+      "stage": "Planning"
+    },
+    {
+      "id": "3",
+      "stage": "Design"
+    },
+    {
+      "id": "4",
+      "stage": "Construction"
+    },
+    {
+      "id": "5",
+      "stage": "Completed"
+    }
+  ],
+  "projectsDataList": [
+    {
+      "projectId": "1",
+      "projectData": {
+        "on_Budget": "ok",
+        "on_Schedule": "stop",
+        "description": "Smart City Project Description1",
+        "purpose": "Transport & Mobility",
+        "districtCount": 3,
+        "projectStatus": "Scooping"
+      }
+    },
+    {
+      "projectId": "2",
+      "projectData": {
+        "on_Budget": "ok",
+        "on_Schedule": "ok",
+        "description": "Smart City Project Description2",
+        "purpose": "Transport & Mobility",
+        "districtCount": 3,
+        "projectStatus": "Scooping"
+      }
+    },
+    {
+      "projectId": "3",
+      "projectData": {
+        "on_Budget": "ok",
+        "on_Schedule": "stop",
+        "description": "Smart City Project Description3",
+        "purpose": "Transport & Mobility",
+        "districtCount": 3,
+        "projectStatus": "Scooping"
+      }
+    },
+    {
+      "projectId": "4",
+      "projectData": {
+        "on_Budget": "ok",
+        "on_Schedule": "not_ok",
+        "description": "Smart City Project Description4",
+        "purpose": "Transport & Mobility",
+        "districtCount": 3,
+        "projectStatus": "Scooping"
+      }
+    },
+    {
+      "projectId": "5",
+      "projectData": {
+        "on_Budget": "stop",
+        "on_Schedule": "stop",
+        "description": "Smart City Project Description5",
+        "purpose": "Transport & Mobility",
+        "districtCount": 3,
+        "projectStatus": "Scooping"
+      }
+    },
+    {
+      "projectId": "6",
+      "projectData": {
+        "on_Budget": "ok",
+        "on_Schedule": "not_ok",
+        "description": "Smart City Project Description6",
+        "purpose": "Transport & Mobility",
+        "districtCount": 3,
+        "projectStatus": "Construction"
+      }
+    },
+    {
+      "projectId": "7",
+      "projectData": {
+        "on_Budget": "not_ok",
+        "on_Schedule": "not_ok",
+        "description": "Smart City Project Description7",
+        "purpose": "Transport & Mobility",
+        "districtCount": 3,
+        "projectStatus": "Scooping"
+      }
+    }
+  ]
+}
