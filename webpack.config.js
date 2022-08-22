@@ -1,4 +1,4 @@
-const json = require('./data.json');
+const json = require('src/data.json');
 
 module.exports = {
     entry: "./src/controller.js",
